@@ -20,26 +20,8 @@ namespace github_actions_demo.Models
         public int MyProperty10 { get; set; }
        
         
-        public int MyProperty31 { get; set; }
-        public int MyProperty32{ get; set; }
-        public int MyProperty33 { get; set; }
-        public int MyProperty34 { get; set; }
-        public int MyProperty35 { get; set; }
-        public int MyProperty36 { get; set; }
-        public int MyProperty37 { get; set; }
-        public int MyProperty38 { get; set; }
-        public int MyProperty39 { get; set; }
-        public int MyProperty40 { get; set; }
-        public int MyProperty41 { get; set; }
-        public int MyProperty42 { get; set; }
-        public int MyProperty43 { get; set; }
-        public int MyProperty44 { get; set; }
-        public int MyProperty45 { get; set; }
-        public int MyProperty46 { get; set; }
-        public int MyProperty47 { get; set; }
-        public int MyProperty48 { get; set; }
-        public int MyProperty49 { get; set; }
-        public int MyProperty50 { get; set; }
+        
+       
                  
     }
 }
