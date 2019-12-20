@@ -7,5 +7,6 @@ namespace github_actions_demo.Models
 {
     public class demo7
     {
+        public int MyProperty { get; set; }
     }
 }
